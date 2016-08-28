@@ -1,0 +1,7 @@
+base	katex
+author	James Lowenthal
+email	jlowenthal@ntlworld.com
+date	2016-08-24
+name	KaTeX renderer
+desc	Protects LaTeX math from further parsing and then renders it with KaTeX
+url		about:blank
